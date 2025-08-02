@@ -6,4 +6,4 @@ When you use the extension, selected text may be sent securely to our server to 
 
 No browsing history, cookies, or personal identifiers are collected.
 
-If you have questions, contact [your@email.com].
+If you have questions, contact [namangautam31@email.com].
